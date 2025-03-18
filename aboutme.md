@@ -4,14 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Georgina Vogler, I am from Barcelona and I love learning new skills. Have a look at my background below!
+My name is Georgina Vogler, I'm from Barcelona but currently living in Bilbao. I have experience in the scientific and technological field and I am motivated to continue developing my knowledge in these fields. Check out my journey below!
 
 ### Education
 
 - Physics degree at Universitat Autònoma de Barcelona (2019 - 2024)
-- Erasmus+ Physics degree at Universität Heidelberg, Germany (2022-2023)
-- Master in Health Data Sciencie at Universitat Rovira i Virgili (2024 - present)
+- Erasmus+ Bachelor of Science (Physics) at Universität Heidelberg, Germany (2022-2023)
+- Master in Health Data Science at Universitat Rovira i Virgili (2024 - now)
 
 ### Experience
 
-- Medical Physics Internship at Hospital del Mar (02/2024 - 07/2024)
+- Medical Physics Internship at Hospital del Mar, Barcelona (02/2024 - 07/2024)
