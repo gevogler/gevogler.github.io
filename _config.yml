@@ -10,7 +10,7 @@ author: Georgina Vogler
 
 navbar-links:
   About Me: "aboutme"
-  Example Page: "example"
+# Example Page: "example"
 
 ################
 # --- Logo --- #
@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/Orla.jpeg"
+avatar: "/images/georgina.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,30 +39,30 @@ social-network-links:
   email: "voglergeorgina@gmail.com"
 # facebook: 
   github: gevogler
-  twitter: georgivogler
+# twitter: 
 # youtube:
   linkedin: georgina-vogler
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+#  xing: 
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  spotify: y
+#  telephone: 
+#  steam: 
+#  twitch: 
+#  yelp: 
+#  telegram: 
+#  calendly: 
+#  mastodon: 
+#  bluesky: 
+#  ORCID:   
+#  google-scholar:   
+#  discord: 
+#  kaggle: 
+#  hackerrank: 
+#  gitlab: 
+#  itchio: 
+#  untappd: 
 
 ###########################
 # --- General options --- #
