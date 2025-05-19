@@ -16,12 +16,17 @@ One platform that stands out in this digital transformation is **SonicDICOM**.
 
 ## What is SonicDICOM?
 
+{: .box-success}
+SonicDICOM was created in 2003 by Fujidenolo Solutions Co. as a medical-use system based on JPEG images. The data center was not established until 2008, with the aim of being able to offer a cloud service to its customers.
+
 SonicDICOM is a web-based medical imaging platform for storage, visualization and sharing, offering cloud environments [2]. It allows you to manage and share DICOM format diagnostic images (such as X-rays, MRIs, CT scans, etc) in order to improve DICOM flows in hospitals [3].
+
+
 
 
 ## References
 [1] Shah, Varun & Konda, Sreedhar. (2022). Cloud Computing in Healthcare: Opportunities, Risks, and Compliance Introduction. doi:10.5281/zenodo.10779522
 
-[2] SonicDICOM | DICOM Viewer & DICOM Server. (Diciembre de 2024). Obtenido de https://sonicdicom.com/
+[2] SonicDICOM | DICOM Viewer & DICOM Server. (December 2024). https://sonicdicom.com/
 
-[3] Rybak, G., Strzecha, K., & Krakós, M. (Febrero de 2022). A New Digital Platform for Collecting Measurement Data from the Novel Imaging Sensors in Urology. Sensors, 22(4), 1539. doi:10.3390/s22041539
+[3] Rybak, G., Strzecha, K., & Krakós, M. (February 2022). A New Digital Platform for Collecting Measurement Data from the Novel Imaging Sensors in Urology. Sensors, 22(4), 1539. doi:10.3390/s22041539
