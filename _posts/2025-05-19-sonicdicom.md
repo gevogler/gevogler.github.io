@@ -4,7 +4,7 @@ title: Cloud Platforms in Medicine
 subtitle: The SonicDicom Advantage
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [cloud][data][heath][dicom]
+tags: [cloud, data, heath, dicom]
 comments: true
 mathjax: true
 author: Georgina Vogler
