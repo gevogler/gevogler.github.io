@@ -4,14 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Georgina Vogler, I'm from Barcelona but I'm currently living in Bilbao. I have experience in the scientific and technological field and I am motivated to continue developing my knowledge in these fields. Check out my journey below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Physics degree at Universitat Autònoma de Barcelona (2019 - 2024)
+- Erasmus+ Bachelor of Science (Physics) at Universität Heidelberg, Germany (2022-2023)
+- Master in Health Data Science at Universitat Rovira i Virgili (2024 - now)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- Medical Physics Internship at Hospital del Mar, Barcelona (02/2024 - 07/2024)
