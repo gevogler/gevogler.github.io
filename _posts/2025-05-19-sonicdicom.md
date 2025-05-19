@@ -21,7 +21,23 @@ SonicDICOM was created in 2003 by Fujidenolo Solutions Co. as a medical-use syst
 
 SonicDICOM is a web-based medical imaging platform for storage, visualization and sharing, offering cloud environments [2]. It allows you to manage and share DICOM format diagnostic images (such as X-rays, MRIs, CT scans, etc) in order to improve DICOM flows in hospitals [3].
 
+Below are some of the top SonicDICOM offerings:
 
+1. Storage:
+
+SonicDICOM provides secure cloud storage for medical images. It offers from 100GB to 2TB of storage. The platform also ensures that as data volumes increase, storage capacity can be easily adjusted.
+
+2.  Accessibility:
+
+Medical professionals can access data from anywhere. It also offers simultaneous accessibility. This allows doctors to review patient images and make diagnoses without being tied to a specific physical storage location or device. It also offers the possibility to set permission controls to make data restricted to some specific users.
+
+3.  Collaboration and Real-Time Sharing:
+
+SonicDICOM enables real-time sharing and collaboration between healthcare professionals via links, making it easily to access from anywhere. This feature improves communication and interoperability.
+
+4.  Security:
+
+SonicDICOM complies with strict healthcare regulations to ensure all patient data is stored and transferred securely. It uses HTTPS protocol to ensure a secure data access. The platform uses advanced encryption techniques and provides role-based access control, ensuring that only authorized staff can access confidential patient information.
 
 
 ## References
